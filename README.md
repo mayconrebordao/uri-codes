@@ -5,6 +5,6 @@ Exercícios resolvidos do uri judge online
 
   ```
   $ git clone https://github.com/mayconrebordao/uri-codes.git
-  $ chmod +x install // apenas uma vez, depois de dar permissão não é necessário dar permissão novamente.
+  $ chmod +x install 
   $ ./install
 os arquivos binários estarão na pasta bin
